@@ -1,0 +1,22 @@
+{
+  "name": "MMM-trafficmate",
+  "version": "1.0.0",
+  "description": "Traffic module for MagicMirror",
+  "main": "trafficmate.js",
+  "scripts": {
+    "test": "./node_modules/grunt/bin/grunt"
+  },
+  "author": "Mark Fodor",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "^0.3.0",
+    "stylelint": "^7.10.1",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest"
+  }
+}
